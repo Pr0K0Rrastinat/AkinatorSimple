@@ -1,0 +1,31 @@
+Name,type_of_creature,gender,devil_fruit_user,rank,number of hands,Type_of_devil_fruit,swordsman,hair_color,Worst Generation,parent
+Pacifist,Cyborg,none,no,marine,2,no,no,black,no,no
+Chick,animal,none,no,none,0,no,no,no,no,no
+Whale,animal ,male,no,none,0,no,no,no,no,no
+Hattian,human,female,no,outlaw,2,no,no,brown,no,no
+Arlong,fishman,male,no,pirate,2,no,no,black,no,no
+Crocodile,human,male,yes,warlord,2,logia,no,black,no,no
+Kizaru,human,male,yes,admiral,2,logia,no,black,no,no
+Aokoji,human,male,yes,admiral,2,logia,no,black,no,no
+Brooke,human,male,yes,pirate,2,paramecia,no,black,no,no
+Shanks,human,male,no,yonko,1,no,yes,red,no,no
+Hancock,human,female,yes,warlord,2,paramecia,no,black,no,no
+Teach,human,male,yes,yonko,2,logia,no,black,no,no
+Vivi,human,female,no,princess,2,no,no,blue,no,no
+Nefertari Cobra,human,male,no,king,2,no,no,black,no,yes
+Dragon,human,male,none,revolutionary,2,none,no,black,no,yes
+Mihawk,human,male,no,warlord,2,no,yes,black,no,no
+Garp,human,male,no,marine,2,no,no,white,no,yes
+Kuma,human,male,yes,warlord,2,paramecia,no,black,no,no
+Sabo,human,male,yes,revolutionary,2,logia,no,yellow,no,no
+Ivankov,human,none,yes,revolutionary,2,paramecia,no,violet,no,no
+Marco,human,male,yes,pirate,2,zooan,no,yellow,no,no
+Bonnie,human,female,yes,pirate,2,paramecia,no,pink,no,no
+Reilly,human,male,no,pirate,2,no,yes,white,no,no
+Killer,human,male,yes,pirate,2,smile,no,yellow,yes,no
+X Drake ,human,male,yes,pirate,2,zooan,yes,brown,yes,no
+Aruj,human,male,yes,pirate,2,paramecia,no,black,yes,no
+Hawkins,human,male,yes,pirate,2,paramecia,no,yellow,yes,no
+Kid,human,male,yes,pirate,1,paramecia,no,red,yes,no
+Back,human,male,yes,pirate,2,paramecia,no,black,yes,yes
+Pell,human,female,yes,security,2,zooan,no,black,no,no
